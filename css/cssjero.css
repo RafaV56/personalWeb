@@ -1,0 +1,26 @@
+@charset "utf-8";
+/* CSS Document */
+
+.titulo{
+	border: 2px solid rgba(255,255,0,1);
+	text-align: center;
+	padding: 5px;
+	padding-top: 10px;
+	text-transform: uppercase;
+	}
+.tituloLi {
+	color: rgba(255,0,0,1);
+	font-size: 36px;
+	text-transform: uppercase;
+	}
+.subtitulos {
+	text-transform: uppercase;
+	color: rgba(48,102,114,1);	
+	}
+.letracapital {
+	text-transform: capitalize;
+	}
+h3{
+	color:rgb(214, 15, 15);
+ }
+	
