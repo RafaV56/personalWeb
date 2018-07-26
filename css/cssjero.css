@@ -24,3 +24,38 @@ h3{
 	color:rgb(214, 15, 15);
  }
 	
+.bordeazul {
+	border:2px solid rgba(0,0,204,1)
+	}
+.borderojo {
+	border:2px solid rgba(255,0,0,1)
+	}
+.bordeamarillo {
+	border:2px solid rgba(255,255,0,1)
+	}
+	
+.margenexterior5px {
+	margin:  5px;
+    } 
+	
+.margeninterior5px {
+	padding: 5px;
+    } 
+	
+margenexterior10px {
+	margin:  10px;
+    } 
+	
+.margeninterior10px {
+	padding: 10px;
+    } 
+.textoaladerecha {
+	text-align: right;
+	}
+.textoalaizquierda {
+	text-align: left;
+	}
+.todaslasletrasminusculas {
+	text-transform:lowercase
+	}	
+	
